@@ -1,0 +1,11 @@
+#ignore the output csv file
+*.csv
+
+#intellij workspace file
+.idea
+*.iml
+.DS_Store
+
+#ignore target directory
+target
+dependency-reduced-pom.xml
